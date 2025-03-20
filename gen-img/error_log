@@ -1,0 +1,2 @@
+[20-Mar-2025 06:58:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/main/public_html/zefre.net/ai/gen-img/index.php:97) in /home/main/public_html/zefre.net/ai/gen-img/index.php on line 490
+[20-Mar-2025 07:01:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/main/public_html/zefre.net/ai/gen-img/index.php:97) in /home/main/public_html/zefre.net/ai/gen-img/index.php on line 490
